@@ -1,4 +1,4 @@
-# Discord HypeSquad Badge Script (Updated October 2026)
+# Discord HypeSquad Badge Script (Updated October 2026) (INSTANT!)
 
 **Current Status (as of October 27, 2026):**  
 Discord officially **removed the HypeSquad section** from settings in September 2025, meaning you can no longer join via the in-app quiz. Existing badges remain visible on profiles, but new users can't join officially.
