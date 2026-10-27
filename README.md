@@ -27,7 +27,10 @@ Discord officially **removed the HypeSquad section** from settings in September 
    - `Ctrl + Shift + J` (Windows/Linux) or `Cmd + Option + J` (Mac).
    - Or right-click > Inspect > Console tab.
 3. Change the `house_id` variable to your preferred `1, 2, 3` house.
-4. Paste the entire script and press Enter.
+Bravery: 1
+Brilliance: 2
+Balance: 3
+5. Paste the entire script and press Enter.
 
 ```javascript
 let wreq = webpackChunkdiscord_app.push([[Symbol()],{},r=>r]);
